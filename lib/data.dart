@@ -1,0 +1,42 @@
+class AppData {
+  AppData._();
+
+  static final List<String> innerStyleImages = [
+    'https://ntvb.tmsimg.com/assets/p193875_v_h8_aq.jpg?w=1280&h=720',
+    'https://external-preview.redd.it/wtZcjLoOCUufPRHcw0-GlSR3mTzwjaqxJCKzs5RMzsM.png?width=640&crop=smart&auto=webp&s=dc2169dba6145ea55ac5cc51c1eaf44730e07c32',
+    'https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/inglourious-basterds-shosanna-escape.jpg',
+    'https://static1.srcdn.com/wordpress/wp-content/uploads/2017/04/Eli-Roth-in-Inglourious-Basterds.jpg',
+    'https://cdn.hswstatic.com/gif/play/e1ba1410-2b56-4660-bdbd-0e7d9a28da30-1920-1080.png',
+    'https://imgix.ranker.com/list_img_v2/3321/3203321/original/3203321?auto=format&q=50&fit=crop&fm=pjpg&dpr=2&crop=faces&h=185.86387434554973&w=355',
+    'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6edf3fc9-b998-4310-974c-6bf4faaf85d0/d2fvbbt-764f614b-5932-46f2-acef-7fb109c6d341.jpg/v1/fill/w_900,h_563,q_75,strp/aldo_and_donny_by_elguapo1991_d2fvbbt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvNmVkZjNmYzktYjk5OC00MzEwLTk3NGMtNmJmNGZhYWY4NWQwXC9kMmZ2YmJ0LTc2NGY2MTRiLTU5MzItNDZmMi1hY2VmLTdmYjEwOWM2ZDM0MS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fubBwHl0ZO14iDVFCr80L2ago8IU38TrEWvbJt06BZU',
+    'https://i.guim.co.uk/img/static/sys-images/Film/Pix/pictures/2009/8/19/1250697425613/Adolf-Hitler-in-Quentin-T-002.jpg?width=220&dpr=1&s=none',
+    'https://cdn.mos.cms.futurecdn.net/764d84bdd77af1f3550e67494972ca6f-320-80.jpg',
+    'https://film-grab.com/wp-content/uploads/photo-gallery/23%20(507).jpg?bwg=1547222424',
+    'https://1.bp.blogspot.com/-Ogge0QkgGgE/UXRDuumO4vI/AAAAAAAAG1I/6ZQeSFXVi3Q/s640/vlcsnap-2013-04-21-14h46m59s239.png',
+    'https://i.postimg.cc/mrXThj6L/Fredrick-es-saludado.png',
+    'https://miro.medium.com/v2/1*BcTW4RA-B-i9Rr6y0psk4A.png',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0GXeIcwq1qpzHbwKTKuzIqoA5VczIlHO2A&s',
+    'https://film-grab.com/wp-content/uploads/photo-gallery/28%20(506).jpg?bwg=1547222424',
+    'https://m.media-amazon.com/images/M/MV5BMjEwNzcxODQwMV5BMl5BanBnXkFtZTcwOTkzOTY3Mg@@._V1_.jpg',
+    'https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/Inglourious-Basterds-tavern-Hellstrom.jpg',
+    'https://cdn.shopify.com/s/files/1/0660/5769/9595/files/inglourious-basterds-scene-three-glasses-tarantino_jpg_480x480.jpg?v=1680547292',
+    'https://pbs.twimg.com/media/DpW13P0WwAAgfOR.jpg',
+    'https://2.bp.blogspot.com/-9mGFgV-1tGg/T-CeUBBgR7I/AAAAAAAAwR0/uPwR_BhfLTo/s1600/Ariete_.jpg',
+    'https://miro.medium.com/v2/resize:fit:1400/1*bmqw9Zzw1FKO3vDtyub8OA.png',
+    'https://miro.medium.com/v2/resize:fit:1400/1*JYcBW4l9ldNcIJADFTGg6w.png',
+    'https://www.looper.com/img/gallery/the-inglourious-basterds-scene-that-nearly-killed-the-cast/why-did-eli-roth-and-other-cast-members-have-to-face-a-raging-fire-on-the-set-of-inglourious-basterds-1717787154.jpg',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioxxXCbQYqa-fLrmznmSNk1XxuTBwzIQ1Jw&s',
+    'https://miro.medium.com/v2/resize:fit:1100/format:webp/1*o_fZMzfpLl1caOhNqMYuOQ.png',
+    'https://images6.fanpop.com/image/photos/40400000/Inglourious-Basterds-2009-Still-war-movies-40401338-1200-801.jpg',
+    'https://images.kinorium.com/movie/shot/283333/h280_1251371.jpg?21509039631',
+    'https://static1.srcdn.com/wordpress/wp-content/uploads/2021/09/Hans-Landa-with-a-phone-in-Inglourious-Basterds.jpg',
+    'https://i.postimg.cc/522Hd9PY/Shoshanna-estresada.png',
+    'https://i.postimg.cc/nrN1kQhy/Shoshanna-seduce.png',
+    'https://i.postimg.cc/HsgJs9Ly/Fredrick-y-Shoshanna-muere.png',
+    'https://www.slashfilm.com/img/gallery/inglourious-basterds-ending-explained/shosannas-vengeance-and-pity-1650397155.jpg',
+    'https://cdn.prod.website-files.com/610c5007d3b7ee36cc3e07c1/630345795ae76763879b7aa3_Ingloruious_Basterds_Beat_Breakdown.jpg',
+    'https://s2.dmcdn.net/v/Ff6KV1NGtXbNgWP_M/x120',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQdfNjosJgaQWY8EC9ks39WakzUggZOTxgA&s',
+    'https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/Inglourious-Basterds-ending-Aldo-Utivich.jpg'
+  ];
+}
