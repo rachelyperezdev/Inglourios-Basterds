@@ -36,7 +36,7 @@ To run this app on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/inglorious-basterds-app.git
+   git clone https://github.com/rachelyperezdev/Inglourios-Basterds.git
 
 2. **Navigate to the project directory**:
    ```bash
