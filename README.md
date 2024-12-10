@@ -14,10 +14,22 @@ This mobile application is dedicated to the movie *Inglorious Basterds*. It prov
 ## Screenshots
 
 ### Home Screen
+!Home Screen
+!Home Screen 1
+
 ### Characters Screen
+!Characters Main
+!Character Details
+
 ### Moments Screen
+!Moments Main
+!Moment Details
+
 ### About Screen
+!About Screen
+
 ### Contact Me Screen
+!Contact Me Screen
 
 ## Installation
 To run this app on your local machine, follow these steps:
