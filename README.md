@@ -1,20 +1,39 @@
-<<<<<<< HEAD
-# inglourious_basterds
+# Inglorious Basterds App
 
-A new Flutter project.
+## Overview
+This mobile application is dedicated to the movie *Inglorious Basterds*. It provides an engaging and interactive experience for fans, featuring detailed information about characters, memorable moments, and more.
 
-## Getting Started
+## Features
+- **Home Screen**: Includes an original slider and, a introductory video.
+- **Characters**: Displays an image and names of four characters. Clicking on a character shows their photo and details.
+- **Moments**: Showcases my favorite moments with photos and titles. Selecting a moment reveals more details and a related video.
+- **About**: Provides information about the movie, including the number of seasons and the creator.
+- **In My Life**: Explains why this movie is important to me through a short video.
+- **Contact Me**: Includes contact details and a photo for potential future opportunities.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
+### Characters Screen
+### Moments Screen
+### About Screen
+### Contact Me Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+To run this app on your local machine, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Inglourios-Basterds
->>>>>>> 6f5b19a11ac680cfdb9d5ba07c824f9ec9a8f8d6
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/inglorious-basterds-app.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd inglorious-basterds-app
+
+3. **Install dependencies**:
+   ```bash
+   flutter pub get
+
+4. **Run the app**:
+   ```bash
+   flutter run
